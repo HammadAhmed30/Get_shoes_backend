@@ -1,0 +1,22 @@
+{
+  "kind": "singleType",
+  "collectionName": "home_headings",
+  "info": {
+    "singularName": "home-heading",
+    "pluralName": "home-headings",
+    "displayName": "home",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "main_heading": {
+      "type": "richtext"
+    },
+    "sub_heading": {
+      "type": "string"
+    }
+  }
+}
